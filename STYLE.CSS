@@ -1,0 +1,36 @@
+/* body{
+   background-color:  black;
+}
+h1{
+    color: rgb(220, 20, 190);
+}
+div {
+    color: rgb(250, 250, 250);;
+} */
+
+*{
+    background-color: rgb(235, 152, 235);
+}
+#mainHeading{
+color: azure;
+background-color: lime;
+text-align: center;
+text-decoration: underline;
+text-transform: capitalize;
+font-weight: 800;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 150 px;
+font-style: italic;
+}
+#pera{
+ color: coral;
+background-color: darkcyan;
+text-align: left;
+text-decoration: none;
+text-transform: capitalize;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25 px;
+font-style: italic;
+
+
+}
